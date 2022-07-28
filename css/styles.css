@@ -230,7 +230,6 @@ span {
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: var(--white-color);
-    /* animation: fade-in 1500ms ease 100ms 1 alternate both; */
     animation: move 1500ms linear 100ms 1 both;
 }
 
