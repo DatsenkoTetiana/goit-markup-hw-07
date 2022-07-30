@@ -974,11 +974,13 @@ span {
     transition: opacity var(--animation-hover);
 }
 
-
+.register-checkbox:checked+.register-icon {
+    background-color: var(--blue-background-color);
+}
 
 .register-icon {
     margin-right: 8px;
-    background-color: var(--blue-background-color);
+    transition: background-color var(--animation-hover);
 }
 
 .register-icon-check {
