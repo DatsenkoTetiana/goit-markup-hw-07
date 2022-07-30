@@ -937,7 +937,7 @@ span {
 
 .register-form-icon {
     position: absolute;
-    bottom: 14px;
+    bottom: 11px;
     left: 15px;
     display: flex;
     align-items: center;
@@ -976,12 +976,15 @@ span {
 
 
 
+.register-icon {
+    margin-right: 8px;
+    background-color: var(--blue-background-color);
+}
 
 .register-icon-check {
     opacity: 0;
     fill: var(--white-color);
     transition: opacity var(--animation-hover);
-    background-color: var(--blue-background-color);
 }
 
 
@@ -992,9 +995,8 @@ span {
 
 }
 
-.register-icon {
-    margin-left: 13px;
-    margin-right: 8px;
+.register-checkbox:checked .register-icon {
+    background-color: var(--blue-background-color);
 }
 
 .register-form-agreement-text {
