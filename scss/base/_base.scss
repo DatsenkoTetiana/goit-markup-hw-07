@@ -1,0 +1,9 @@
+body {
+    font-family: var(--main-font);
+    color: var(--main-txt-color);
+    margin: 0;
+}
+
+.no-scroll {
+    overflow: hidden;
+}
