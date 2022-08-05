@@ -104,7 +104,7 @@ sans-serif;
     }
 } */
 
-.section {
+/* .section {
     padding: 94px 0;
 }
 
@@ -112,10 +112,10 @@ sans-serif;
     width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
-}
+} */
 
 /* header */
-.header {
+/* .header {
     border-bottom: 1px solid var(--border-color);
 }
 
@@ -140,12 +140,7 @@ sans-serif;
     line-height: 1.1;
     letter-spacing: 0.03em;
     color: var(--main-txt-color);
-}
-
-span {
-    color: var(--main-txt-color);
-}
-
+} */
 /* .nav {
     margin-left: 93px;
 }
@@ -255,7 +250,7 @@ span {
 }
 
 /* section */
-.hero {
+/* .hero {
     padding-top: 200px;
     padding-bottom: 200px;
     text-align: center;
@@ -279,7 +274,7 @@ span {
     text-transform: uppercase;
     color: var(--white-color);
     animation: move 1500ms linear 100ms 1 both;
-}
+} */
 
 /* .hero__btn {
     display: inline-block;
@@ -659,7 +654,7 @@ span {
 
 }
 
-.footer-form {
+/* .footer-form {
     display: flex;
 }
 
@@ -676,7 +671,7 @@ span {
     background-color: transparent;
     outline: transparent;
 
-}
+} */
 
 /* .footer-form__btn {
     font-weight: 700;
@@ -704,7 +699,7 @@ span {
 } */
 
 /* backdrop modal window */
-.backdrop {
+/* .backdrop {
     position: fixed;
     top: 0;
     left: 0;
@@ -743,7 +738,7 @@ span {
 .backdrop.is-hidden .modal {
     opacity: 0;
     transform: translate(-50%, -50%) scale(0.5);
-}
+} */
 
 /* .modal-btn {
     position: absolute;
@@ -772,7 +767,7 @@ span {
     fill: #2196f3;
 } */
 
-.register-form {
+/* .register-form {
     text-align: center;
 }
 
@@ -910,7 +905,7 @@ span {
 .register-checkbox__link {
     color: rgba(33, 150, 243, 1);
     text-underline-position: under;
-}
+} */
 
 /* .register-form__btn {
     display: inline-flex;
