@@ -7,3 +7,12 @@ body {
 .no-scroll {
     overflow: hidden;
 }
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
