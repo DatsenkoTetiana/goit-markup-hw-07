@@ -1035,6 +1035,10 @@ ul {
 }
 
 .footer__socials-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.1428571429;
+  letter-spacing: 0.03em;
   padding: 0;
   margin-bottom: 20px;
   text-transform: uppercase;
